@@ -1,6 +1,6 @@
 {
-  "name": "cordova-customplugin-inappbrowser-ssl",
-  "version": "1.0.0",
+  "name": "cordova-plugin-inappbrowser-ssl",
+  "version": "1.0.1",
   "description": "Custom inappbrowser plugin to handle ssl check automatically",
   "main": "index.js",
   "directories": {
@@ -12,10 +12,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lgiinfy/cordova-customplugin-inappbrowser.git"
+    "url": "git+https://github.com/lgiinfy/cordova-plugin-inappbrowser-ssl.git"
   },
   "keywords": [
-    "inappbrowser"
+    "inappbrowser", 
+	"ssl check"
   ],
   "author": "LgiInfy",
   "license": "MIT",
