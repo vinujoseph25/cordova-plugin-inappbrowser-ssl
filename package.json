@@ -1,5 +1,5 @@
 {
-  "name": "cordova-customplugin-inappbrowser",
+  "name": "cordova-customplugin-inappbrowser-ssl",
   "version": "1.0.0",
   "description": "Custom inappbrowser plugin to handle ssl check automatically",
   "main": "index.js",
