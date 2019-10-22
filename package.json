@@ -1,0 +1,26 @@
+{
+  "name": "cordova-customplugin-inappbrowser",
+  "version": "1.0.0",
+  "description": "Custom inappbrowser plugin to handle ssl check automatically",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lgiinfy/cordova-customplugin-inappbrowser.git"
+  },
+  "keywords": [
+    "inappbrowser"
+  ],
+  "author": "LgiInfy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lgiinfy/cordova-customplugin-inappbrowser/issues"
+  },
+  "homepage": "https://github.com/lgiinfy/cordova-customplugin-inappbrowser#readme"
+}
